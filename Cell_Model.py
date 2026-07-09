@@ -1,1 +1,1 @@
-# Model mathematical dc motor system
+# Model mathematical of Li Cell
